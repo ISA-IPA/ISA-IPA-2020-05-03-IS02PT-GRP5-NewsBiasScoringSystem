@@ -26,11 +26,6 @@ Our team had an exciting time working on this project and hope to share our insi
 https://drive.google.com/open?id=1CVhzwqFfMx_NK81qw96ujwIohuKruASp
 
 ---
-## SECTION 5 : USER GUIDE
-
-
----
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 5 : PROJECT REPORT / PAPER
 https://github.com/SB1308/ISA-IPA-2019-01-19-IS01PT-GRP-NBSS/blob/master/Report.docx
 
----
