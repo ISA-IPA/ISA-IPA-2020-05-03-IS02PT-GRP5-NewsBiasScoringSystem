@@ -1,6 +1,7 @@
 ---
 ## SECTION 1 : PROJECT TITLE
 News Bias Scoring System 
+<img width="812" alt="start_screen" src="https://github.com/SB1308/NBSS/blob/master/NBSS_Cover.jpg">
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 30 years ago, evening newscasts on Channel 8 and Channel 5 gave straightforward accounts of the day’s events, and the morning newspapers provide the hardcopy version of the news which told us what happened while we slept. Fast forward to today, we are constantly bombarded by information from multiple social media ( Facebook, Twitter, Instagram) which most would read them with a pinch of salt. Instead, we often rely on the mainstream news channels ( e.g. CNA, BBC ABC websites) as our source of truth to understand what is really happening around us.  
@@ -14,7 +15,7 @@ Our team had an exciting time working on this project and hope to share our insi
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| LIM CHONG SENG HERMANN  |  | |  |
+| LIM CHONG SENG HERMANN  | A0195392U | Business idea generation, Web scraping UiPath robot, Powerpoint presentation, Project report, Project video | e0385023@u.nus.edu |
 | YEO WHYE CHUNG NELSON | A0195405A |  |  |
 | KOH SOOK BING | A0195413E | Exploration of the python scripts for the News Bias Scoring System.   Project report write up. Develop powerpoint for the video.  |  |
 
