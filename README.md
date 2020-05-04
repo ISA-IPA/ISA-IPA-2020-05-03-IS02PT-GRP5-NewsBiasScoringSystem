@@ -28,22 +28,6 @@ https://drive.google.com/open?id=1CVhzwqFfMx_NK81qw96ujwIohuKruASp
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/dion797/IRS-RS-2019-03-09-IS01PT-GRP-Thor-Petrol_Station_Route_Optimizer/blob/master/UserGuide/User%20Guide_petrol.pdf>
-
-### [ 1 ] To run the system using iss-vm
-
-> download pre-built virtual machine from http://bit.ly/iss-vm
-
-> start iss-vm
-
-> open terminal in iss-vm
-
-> $ git clone https://github.com/SB1308/News_Bias_scoring_system.git
-
-
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
