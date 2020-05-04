@@ -1,0 +1,2 @@
+GOOGLE_APPLICATION_CREDENTIALS=C:\SLS_Proj1_SANA\app\nlp\sls-proj1-sana-c13f0c2b91f9.json
+FLASK_APP=main.py

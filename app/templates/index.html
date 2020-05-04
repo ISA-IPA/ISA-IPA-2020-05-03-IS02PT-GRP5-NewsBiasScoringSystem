@@ -1,0 +1,26 @@
+{% extends "main.html" %}
+
+{% block main %}
+    {% for article in articles %}
+        <article>
+            <h2>{{ article.title }}</h2>
+            <div><a href="{{ article.url }}" target="_blank">Posted on {{ moment(article.date).format("DD MMM YYYY") }}{% if article.publisher %} by {{ article.publisher }}{% endif %}</a></div>
+            <div>{{ article.content|truncate(500) }}</div><br>
+            <div class="sentiment">This article is {% if article.sentiment_magnitude < 0.33 %}weakly{% elif article.sentiment_magnitude < 0.67 %}moderately{% else %}strongly{% endif %} {% if article.sentiment > 0.25 %}positive{% elif article.sentiment < -0.25 %}negative{% else %}neutral{% endif %}.</div>
+        </article>
+        <hr>
+    {% endfor %}
+{% endblock %}
+
+{% block sidebar %}
+<form id="cat_form" action="" method="post" autocomplete="off">
+    <h3>Category</h3>
+    <div>
+        {% for choice in cat_filters %}
+            <input type="checkbox" name="category" value="{{ choice[0] }}">{{ choice[1][1:] }}<br>
+        {% endfor %}
+    </div>
+    <br>
+    <button type="submit">Filter</button>
+</form>
+{% endblock %}
