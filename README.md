@@ -47,9 +47,6 @@ https://drive.google.com/open?id=1CVhzwqFfMx_NK81qw96ujwIohuKruASp
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
-
-https://github.com/SB1308/NBSS/blob/master/Report.docx 
----
-
+https://github.com/SB1308/NBSS/blob/master/Report.docx
 
 ---
