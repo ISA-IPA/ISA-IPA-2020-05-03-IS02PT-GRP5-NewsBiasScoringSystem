@@ -1,6 +1,6 @@
 ---
 ## SECTION 1 : PROJECT TITLE
-###News Bias Scoring System
+### News Bias Scoring System
 <img width="812" alt="start_screen" src="https://github.com/SB1308/NBSS/blob/master/NBSS_Cover.jpg">
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
