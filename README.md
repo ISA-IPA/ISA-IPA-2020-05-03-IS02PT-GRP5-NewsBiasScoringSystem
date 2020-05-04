@@ -2,6 +2,7 @@
 ## SECTION 1 : PROJECT TITLE
 ### News Bias Scoring System
 <img width="812" alt="start_screen" src="https://github.com/SB1308/NBSS/blob/master/NBSS_Cover.jpg">
+
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 30 years ago, evening newscasts on Channel 8 and Channel 5 gave straightforward accounts of the day’s events, and the morning newspapers provide the hardcopy version of the news which told us what happened while we slept. Fast forward to today, we are constantly bombarded by information from multiple social media ( Facebook, Twitter, Instagram) which most would read them with a pinch of salt. Instead, we often rely on the mainstream news channels ( e.g. CNA, BBC ABC websites) as our source of truth to understand what is really happening around us.  
