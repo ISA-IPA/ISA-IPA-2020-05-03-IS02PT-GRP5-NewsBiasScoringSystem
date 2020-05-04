@@ -17,7 +17,7 @@ Our team had an exciting time working on this project and hope to share our insi
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | LIM CHONG SENG HERMANN  | A0195392U | Business idea generation, Web scraping UiPath robot, Powerpoint presentation, Project report, Project video | e0385023@u.nus.edu |
-| YEO WHYE CHUNG NELSON | A0195405A |  |  |
+| YEO WHYE CHUNG NELSON | A0195405A | Business idea generation, Built the web application server and frontend, Developed the Google NLP interaction |  |
 | KOH SOOK BING | A0195413E | Exploration of the python scripts for the News Bias Scoring System.   Project report write up. Develop powerpoint for the video.  |  |
 
 ---
