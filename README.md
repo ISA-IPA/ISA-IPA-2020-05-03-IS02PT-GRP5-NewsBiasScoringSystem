@@ -29,17 +29,16 @@ https://drive.google.com/open?id=13KbkDhLXiejHGkEY79J_9Zz_xl15xI8l
 ## SECTION 5 : INSTALLATION AND USER GUIDE
 
 The following steps must be taken during installation of the system on a different machine:
-•	Each time a UIPath robot is deployed into a different environment, new authentication keys and tokens must be generated from the UIPath Cloud Orchestrator website. The detailed instructions can be found in the UIPath API guide (https://docs.uipath.com/orchestrator/reference/consuming-cloud-api). Namely, the settings.json file in the web app’s folder must be updated with the new User Key, Account Logical Name, Tenant Logical Name, and Client Id
-•	After deployment, make sure the UIPath Robot/Assistant is launched, has successfully connected to the Orchestrator server and the robot has been downloaded
-•	The web app’s folder (SLS_Proj1_SANA) must be transferred to the root directory of C: drive, due to the use of absolute paths in the configuration of the system. Relative pathing can be done as possible future improvements to the system code
-•	Make sure Python 3.7 is installed and that it has been added to the Path system environmental variable
-•	Enter the following commands into a command prompt:
-•	C:/SLS_Proj1_SANA/venv/Scripts/activate
-•	cd C:/SLS_Proj1_SANA
-•	python main.py
-•	The web app will launch, and the robot should start scheduled scraping within a minute
-•	The web page can now be accessed at localhost:5000
-
+-	Each time a UIPath robot is deployed into a different environment, new authentication keys and tokens must be generated from the UIPath Cloud Orchestrator website. The detailed instructions can be found in the UIPath API guide (https://docs.uipath.com/orchestrator/reference/consuming-cloud-api). Namely, the settings.json file in the web app’s folder must be updated with the new User Key, Account Logical Name, Tenant Logical Name, and Client Id
+-	After deployment, make sure the UIPath Robot/Assistant is launched, has successfully connected to the Orchestrator server and the robot has been downloaded
+-	The web app’s folder (SLS_Proj1_SANA) must be transferred to the root directory of C: drive, due to the use of absolute paths in the configuration of the system. Relative pathing can be done as possible future improvements to the system code
+-	Make sure Python 3.7 is installed and that it has been added to the Path system environmental variable
+-	Enter the following commands into a command prompt:
+-	C:/SLS_Proj1_SANA/venv/Scripts/activate
+-	cd C:/SLS_Proj1_SANA
+-	python main.py
+-	The web app will launch, and the robot should start scheduled scraping within a minute
+-	The web page can now be accessed at localhost:5000
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
